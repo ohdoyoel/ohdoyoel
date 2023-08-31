@@ -1,4 +1,8 @@
-### Hi there 👋
+<a href="ohdoyoel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EA4335?style=for-the-badge&logo=appveyor&logoColor=EA4335"/></a>
+
+👋 Hi there. Here is Daniel Oh.
+
+
 
 <!--
 **ohdoyoel/ohdoyoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
