@@ -3,11 +3,11 @@
 
 👋 Hi there. Here is Daniel Oh.
 
-# Skills
+### Skills
 
-# Tools
+### Tools
 
-# Books
+### Books
 
 
 <!--
