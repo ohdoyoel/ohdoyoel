@@ -1,7 +1,13 @@
-<a href="ohdoyoel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EA4335?style=for-the-badge&logo=appveyor&logoColor=EA4335"/></a>
+<a href="ohdoyoel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ohdoyoel@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="instagram.com" target="_blank"><img src="https://img.shields.io/badge/daniel.0h-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 👋 Hi there. Here is Daniel Oh.
 
+# Skills
+
+# Tools
+
+# Books
 
 
 <!--
