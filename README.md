@@ -7,7 +7,7 @@
 
 - Game & Service Development
 - Web Development
-- Embedded System
+- Embedded System & Robotics
 - Artificial Intelligence
   - Computer Vision
   - Natural Language Processing
