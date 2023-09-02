@@ -60,3 +60,10 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 ### Books
 
 - Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohdoyoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohdoyoel\&layout=compact)
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdoyoel&show_icons=true&theme=radical)-->
