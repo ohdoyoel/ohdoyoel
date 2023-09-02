@@ -3,13 +3,22 @@
 
 👋 Hi there. Here is Daniel Oh.
 
+### Interests
+
+- Game & Service Development
+- Web Development
+- Embedded System
+- Artificial Intelligence
+  - Computer Vision
+  - Natural Language Processing
+
 ### Skills
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
 
@@ -17,8 +26,39 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 
 ### Tools
 
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/ArmMBED-0091BD?style=flat-square&logo=arm&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+<!--<a href="" target="_blank"><img src="https://img.shields.io/badge/SamsungBrighticsStudio-1428A0?style=flat-square&logo=samsung&logoColor=white"/></a>-->
+
+### Libraries
+
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+
+### Certificates
+
+- 2021 한국장학재단 국가우수장학금(이공계) 고교우수유형 장학생
+- BTS 실전문제연구팀 활동 이수, 팀명 ISM (Indoor Shared Mobility) [2022.03.01 ~ 2022.12.31]
+
+### Awards
+
+- 2022 OUTTA AI BOOTCAMP 수료 & 우수 팀 (1위 / 27팀) & 우수 참가자 (5위 / 61명) 선정
+- 제2회 U-챌린지 페스티벌 금상, 팀명 Indoor Shared Mobility [2022.11.18]
+- 제2회 X-Corps Plus 페스티벌 동상 (다학제팀), ISM [2022.11.25]
+
 ### Books
 
+- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin (Pearson; 1st edition (August 1, 2008))
 
 <!--
 **ohdoyoel/ohdoyoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
