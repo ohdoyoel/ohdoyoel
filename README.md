@@ -3,7 +3,7 @@
 
 👋 Hi there. Here is Daniel Oh.
 
-### Interests
+### <summary>Interests</summary>
 
 - Game & Service Development
 - Web Development
@@ -11,6 +11,7 @@
 - Artificial Intelligence
   - Computer Vision
   - Natural Language Processing
+
 
 ### Skills
 
