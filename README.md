@@ -61,7 +61,13 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 
 - Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
+### Statistics
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohdoyoel)](https://solved.ac/ohdoyoel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohdoyoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdoyoel\&rank_icon=github)
+
 
 <!--
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohdoyoel\&layout=compact)
