@@ -5,6 +5,16 @@
 
 ### Skills
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
+
+Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/> when I edit my code.
+
 ### Tools
 
 ### Books
