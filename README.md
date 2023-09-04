@@ -5,12 +5,12 @@
 
 ### Interests
 
-- Embedded System & Robotics
 - Artificial Intelligence
   - Data Mining
   - Computer Vision
   - Natural Language Processing
 - Algorithms (Problem Solving)
+- Embedded System & Robotics
 - Game & Service Development
 - Web Development
 
