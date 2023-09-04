@@ -33,7 +33,8 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/ArmMBED-0091BD?style=flat-square&logo=arm&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></a>
-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/SamsungBrighticsStudio-1428A0?style=flat-square&logo=samsung&logoColor=white"/></a>-->
 
 ### Libraries
