@@ -5,14 +5,14 @@
 
 ### Interests
 
-- Game & Service Development
-- Web Development
 - Embedded System & Robotics
 - Artificial Intelligence
   - Data Mining
   - Computer Vision
   - Natural Language Processing
 - Algorithms (Problem Solving)
+- Game & Service Development
+- Web Development
 
 ### Skills
 
