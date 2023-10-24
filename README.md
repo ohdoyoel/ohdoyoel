@@ -68,7 +68,7 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ohdoyoel)](https://velog.io/@ohdoyoel)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohdoyoel)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohdoyoel)](https://velog-readme-stats.vercel.app/api/redirect?name=ohdoyoel)
 
 ### Statistics
 
