@@ -60,10 +60,6 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 - 제2회 U-챌린지 페스티벌 금상, 팀명 Indoor Shared Mobility [2022.11.18]
 - 제2회 X-Corps Plus 페스티벌 동상 (다학제팀), ISM [2022.11.25]
 
-### Books
-
-- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-
 ### Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ohdoyoel)](https://velog.io/@ohdoyoel)
