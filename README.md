@@ -19,10 +19,10 @@
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 
 Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/> when I edit my code.
 
@@ -35,7 +35,6 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
-<!--<a href="" target="_blank"><img src="https://img.shields.io/badge/SamsungBrighticsStudio-1428A0?style=flat-square&logo=samsung&logoColor=white"/></a>-->
 
 ### Libraries
 
@@ -47,7 +46,7 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<!--<a href="" target="_blank"><img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>-->
 
 ### Certificates
 
@@ -76,5 +75,5 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 
 <!--
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohdoyoel\&layout=compact)
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdoyoel&show_icons=true&theme=radical)-->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ohdoyoel&show_icons=true&theme=radical) -->
