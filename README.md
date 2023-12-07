@@ -3,6 +3,11 @@
 
 👋 Hi there. Here is Daniel Oh.
 
+### Statistics
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohdoyoel)](https://solved.ac/ohdoyoel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohdoyoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Interests
 
 - Artificial Intelligence
@@ -64,11 +69,6 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=ohdoyoel)](https://velog.io/@ohdoyoel)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohdoyoel)](https://velog-readme-stats.vercel.app/api/redirect?name=ohdoyoel)
-
-### Statistics
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohdoyoel)](https://solved.ac/ohdoyoel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohdoyoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
