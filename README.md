@@ -7,7 +7,7 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohdoyoel)](https://solved.ac/ohdoyoel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohdoyoel&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohdoyoel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ohdoyoel&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Interests
 
