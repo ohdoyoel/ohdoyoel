@@ -56,15 +56,15 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 
 ### Certificates
 
-- 2021 한국장학재단 국가우수장학금(이공계) 고교우수유형 장학생
 - BTS 실전문제연구팀 활동 이수, 팀명 ISM (Indoor Shared Mobility) [2022.03.01 ~ 2022.12.31]
+- 2021 한국장학재단 국가우수장학금(이공계) 고교우수유형 장학생
 
 ### Awards
 
-- 2022 OUTTA AI BOOTCAMP 수료 & 우수 팀 (1위 / 27팀) & 우수 참가자 (5위 / 61명) 선정
-- 제2회 U-챌린지 페스티벌 금상, 팀명 Indoor Shared Mobility [2022.11.18]
-- 제2회 X-Corps Plus 페스티벌 동상 (다학제팀), ISM [2022.11.25]
 - 2024 국방 공공데이터 활용 경진대회 (서비스 개발 부문) 대상 : 국방부장관상 [2024.07.29]
+- 제2회 X-Corps Plus 페스티벌 동상 (다학제팀), ISM [2022.11.25]
+- 제2회 U-챌린지 페스티벌 금상, 팀명 Indoor Shared Mobility [2022.11.18]
+- 2022 OUTTA AI BOOTCAMP 수료 & 우수 팀 (1위 / 27팀) & 우수 참가자 (5위 / 61명) 선정
 
 ### Blog
 
