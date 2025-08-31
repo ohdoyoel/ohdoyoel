@@ -56,6 +56,7 @@ Additionally, I love to use <img src="https://img.shields.io/badge/Vim-019733?st
 
 ### Certificates
 
+- 울산정보산업진흥원 화이트 해커 양성 교육 수료 [2025.08.18 ~ 2025.08.24]
 - BTS 실전문제연구팀 활동 이수, 팀명 ISM (Indoor Shared Mobility) [2022.03.01 ~ 2022.12.31]
 - 2021 한국장학재단 국가우수장학금(이공계) 고교우수유형 장학생
 
